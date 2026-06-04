@@ -1,4 +1,4 @@
-# Product Expiry Alert Automation Workflow
+# ✍️ Product Expiry Alert Automation Workflow
 
 A Power Automate and Excel project built to track product expiry records, monitor decision status and send reminder emails to the PIC when action is required.
 
