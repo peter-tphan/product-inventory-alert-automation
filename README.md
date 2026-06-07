@@ -4,6 +4,10 @@ A Power Automate and Excel project built to track product expiry records, monito
 
 This project shows how a manual product tracking sheet can be converted into a structured automation workflow. The flow checks each product record, refreshes the reminder stage, updates the tracker and prepares email reminders for the responsible PIC.
 
+## Dashboard Preview
+
+[![Dashboard Preview](Dashboard_Preview.png)](Product_Expiry_Tracker.xlsx)
+
 ## 🎯 Project Objective
 
 The goal was to create a simple control system for product expiry follow up.
