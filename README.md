@@ -6,7 +6,9 @@ This project shows how a manual product tracking sheet can be converted into a s
 
 ## Dashboard Preview
 
-[![Dashboard Preview](Dashboard_Preview.png)](Product_Expiry_Tracker.xlsx)
+[Open Dashboard Preview](Dashboard_Preview.pdf)
+
+[Open Product Expiry Tracker](Product_Expiry_Tracker.xlsx)
 
 ## 🎯 Project Objective
 
