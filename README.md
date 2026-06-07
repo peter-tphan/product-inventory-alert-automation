@@ -6,8 +6,8 @@ This project shows how a manual product tracking sheet can be converted into a s
 
 ## Dashboard Preview
 
-[Dashboard Preview](Dashboard_Preview.jpg)
-[Dashboard Preview](Power_Automate_Preview.jpg)
+<img src="Dashboard_Preview.jpg" alt="Dashboard Preview" width="900">
+<img src="Power_Automate_Preview.jpg" alt="Power Automate Flow Preview" width="900">
 [Open Product Expiry Tracker](Product_Expiry_Tracker.xlsx)
 
 ## 🎯 Project Objective
